@@ -70,7 +70,7 @@ h3 {
 
 .maincontent {
     float: right;
-    width: 75%;
+    width: 76%;
     height: 500px;
     background-color: rgb(173, 224, 95);
     border: dotted;
@@ -93,4 +93,5 @@ p {
 
 #container {
     display: inline-block;
+    width: 100%;
 }
