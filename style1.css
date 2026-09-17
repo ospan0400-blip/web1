@@ -18,7 +18,7 @@ h1 {
     line-height: 100px;
 }
 
-.navbar {;
+.navbar {
     height: 50px;
     padding: 0 10px;
     text-align: center;
@@ -70,7 +70,7 @@ h3 {
 
 .maincontent {
     float: right;
-    width: 76%;
+    width: 76%; 
     height: 500px;
     background-color: rgb(173, 224, 95);
     border: dotted;
